@@ -2,7 +2,6 @@ import React from 'react'
 import { NavLink } from 'react-router-dom'
 import "./Topbar.css"
 
-
 function Topbar() {
   return (
     <>
@@ -17,7 +16,6 @@ function Topbar() {
             <NavLink to="/skill">
                 <li>Skills</li>
                 </NavLink>
-
                 <NavLink to="/work">
                 <li>Work</li>
                 </NavLink>
