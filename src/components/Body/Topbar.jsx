@@ -7,19 +7,20 @@ function Topbar() {
     <>
     <div className='topbar' >
         <div className="logo">
-        <img src="https://see.fontimg.com/api/renderfont4/mLJ92/eyJyIjoiZnMiLCJoIjoyNSwidyI6MTI1MCwiZnMiOjIwLCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/UHJhdGhtZXNo/madrigal.png" alt="" />
+        <img src="https://see.fontimg.com/api/renderfont4/mLJ92/eyJyIjoiZnMiLCJoIjo2MCwidyI6MTI1MCwiZnMiOjQ4LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/UHJhbmF5IFNhbHVuayE=/madrigal.png
+" alt="" />
         </div>
             <ul>
             <NavLink to="/">
                 <li>Home</li>
                 </NavLink>
-            <NavLink to="/skill">
+            <NavLink to="/">
                 <li>Skills</li>
                 </NavLink>
-                <NavLink to="/work">
+                <NavLink to="/">
                 <li>Work</li>
                 </NavLink>
-                <NavLink to="/contact">
+                <NavLink to="/About">
                   <li>Contact</li>
                   </NavLink>
                 
