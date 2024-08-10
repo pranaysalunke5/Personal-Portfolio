@@ -14,13 +14,13 @@ function Topbar() {
             <NavLink to="/">
                 <li>Home</li>
                 </NavLink>
-            <NavLink to="/">
+            <NavLink to="/skill">
                 <li>Skills</li>
                 </NavLink>
-                <NavLink to="/">
+                <NavLink to="/work">
                 <li>Work</li>
                 </NavLink>
-                <NavLink to="/About">
+                <NavLink to="/contact">
                   <li>Contact</li>
                   </NavLink>
                 
