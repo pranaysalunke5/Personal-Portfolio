@@ -22,6 +22,7 @@ function Topbar() {
                 </NavLink>
                 <NavLink to="/contact">
                   <li>Contact</li>
+                  
                   </NavLink>
                 
             </ul>
