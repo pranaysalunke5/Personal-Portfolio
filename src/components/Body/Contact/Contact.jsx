@@ -1,5 +1,5 @@
 import React from 'react';
-import './Contact.css'; // Import the CSS file
+import './Contact.css'; // Import the updated CSS file
 
 const Contact = () => {
   return (
@@ -8,15 +8,15 @@ const Contact = () => {
       <form className="contact-form">
         <div className="form-group">
           <label htmlFor="name">Name:</label>
-          <input type="text" id="name" name="name" required />
+          <input type="text" id="name" name="name" placeholder="Enter your name" required />
         </div>
         <div className="form-group">
           <label htmlFor="email">Email:</label>
-          <input type="email" id="email" name="email" required />
+          <input type="email" id="email" name="email" placeholder="Enter your email" required />
         </div>
         <div className="form-group">
           <label htmlFor="message">Message:</label>
-          <textarea id="message" name="message" required></textarea>
+          <textarea id="message" name="message" placeholder="Your message" required></textarea>
         </div>
         <button type="submit">Submit</button>
       </form>
