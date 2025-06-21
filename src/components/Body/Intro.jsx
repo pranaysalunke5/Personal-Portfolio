@@ -57,7 +57,8 @@ function Intro() {
             <span>Hi, My Name Is</span>
             <br />
             <span className="name">
- <img
+ 
+                  <img
                 src="https://see.fontimg.com/api/renderfont4/mLJ92/eyJyIjoiZnMiLCJoIjo2MCwidyI6MTI1MCwiZnMiOjQ4LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/UFJBTkFZIFNBTFVOS0U=/madrigal.png"
 
                 alt=""
