@@ -57,8 +57,13 @@ function Intro() {
             <span>Hi, My Name Is</span>
             <br />
             <span className="name">
-              <img
+{/*               <img
                 src="https://see.fontimg.com/api/renderfont4/mLJ92/eyJyIjoiZnMiLCJoIjo2MCwidyI6MTI1MCwiZnMiOjQ4LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/UHJhbmF5IFNhbHVuayE=/madrigal.png
+"
+                alt=""
+              /> */}
+                 <img
+                src="https://see.fontimg.com/api/renderfont4/mLJ92/eyJyIjoiZnMiLCJoIjo2MCwidyI6MTI1MCwiZnMiOjQ4LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/UFJBTkFZIFNBTFVOS0U=/madrigal.png"
 "
                 alt=""
               />
@@ -94,10 +99,15 @@ function Intro() {
           <div class="hide">
             <div className="about">
               <span>
-                <img
+{/*                 <img
                   src="https://see.fontimg.com/api/renderfont4/mLJ92/eyJyIjoiZnMiLCJoIjo0OSwidyI6MTI1MCwiZnMiOjM5LCJmZ2MiOiIjRkFGNUY1IiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/QWJvdXQgTWU/madrigal.png"
                   alt=""
-                />
+                /> */}
+                   <img
+                src="https://see.fontimg.com/api/renderfont4/mLJ92/eyJyIjoiZnMiLCJoIjo2MCwidyI6MTI1MCwiZnMiOjQ4LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/UFJBTkFZIFNBTFVOS0U=/madrigal.png"
+"
+                alt=""
+              />
               </span>
               <hr />
               <div className="info-text">
