@@ -27,9 +27,13 @@ function Topbar() {
                   <li>Contact</li>
                   
                   </NavLink>
-                
+                  
             </ul>
-
+          <div className="resume-button">
+        <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+          <button>View Resume</button>
+        </a>
+      </div>
     </div>
     </>
   )
