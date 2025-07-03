@@ -30,7 +30,7 @@ function Topbar() {
                   
             </ul>
           <div className="resume-button">
-        <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+        <a href="/pranayresume (1).pdf" target="_blank" rel="noopener noreferrer">
           <button>View Resume</button>
         </a>
       </div>
